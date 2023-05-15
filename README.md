@@ -1,2 +1,2 @@
 # Dice-game
-I have made a dice game. it includes HTML,CSS AND JS. Hope u like it
+I have made a dice game. It includes HTML,CSS AND JS. Hope u like it
